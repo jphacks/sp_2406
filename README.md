@@ -79,7 +79,7 @@ SNSの普及に伴い、若者を中心に年賀状を出す人が減少して�
 
 SNSでの拡散を意識した設計で、年賀状を受け取った人が「自分も作ってみたい！」と思える仕組みをデザインしました。年賀状を見る際に「年賀状を作ってみる」ボタンが目立つ位置に配置され、スムーズにログインして制作に取り掛かれます。
 
-![image](https://github.com/user-attachments/assets/4ce3be50-4170-45de-801a-42bbbab7dd8e)
+<img src="https://github.com/user-attachments/assets/4ce3be50-4170-45de-801a-42bbbab7dd8e" style="width: 20%;">
 
 
 ### 解決出来ること
