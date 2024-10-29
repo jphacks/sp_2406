@@ -59,8 +59,10 @@ SNSの普及に伴い、若者を中心に年賀状を出す人が減少して�
 ### 1. ステッカーや写真で簡単にオリジナル年賀状作成
 
 自分の写真を自由に追加したり、豊富なステッカーから選んでデザインにアクセントを加えることができます。現在10種類のステッカーがあり、今後も続々と追加予定です。
+また、「おみくじステッカー」という受け取った相手に運勢がランダムに表示される、遊び心満載の機能も搭載しています。5つの運勢から、何が出るかお楽しみに…！
 
-また、「おみくじステッカー」という受け取った相手がタップすると運勢がランダムに表示される、遊び心満載の機能も搭載しています。5つの運勢から、何が出るかお楽しみに…！
+<img src="https://github.com/user-attachments/assets/a330bf5b-986c-44bf-b6a1-c514448410f0" style="width: 20%;">
+<img src="https://github.com/user-attachments/assets/e6c7e412-6011-455a-b868-8f142da9820d" style="width: 20%;">
 
 ### 2. 好きなSNSでリンクを共有
 
@@ -71,6 +73,8 @@ SNSの普及に伴い、若者を中心に年賀状を出す人が減少して�
 ### 3. ネットプリントによる印刷も可能
 
 受け取った年賀状は、デジタル保存だけでなく、ネットプリントで手軽に印刷も可能です。印刷を選ぶと、QRコードが表示され、簡単にプリントできます。デジタルでもリアルでも、年賀状を楽しんでもらえます。
+
+<img src="https://github.com/user-attachments/assets/489ceec3-0b7d-4b57-9708-3b3d23891ece" style="width: 20%;">
 
 印刷のデモ動画：[https://drive.google.com/drive/folders/1-rdnR2q3PNIxPgAm81zTUQsj5MJQafXm?usp=sharing](https://drive.google.com/file/d/1YHyWWeYj_oylb_SEXNAWHzh7RByH7r_b/view?usp=sharing)
 
