@@ -162,7 +162,9 @@ Release 0〜3（Hack Dayまで）で実装しきれていないデザインの�
     - VPC
 - Vercel
 
-### 独自技術
+### 構成図
+
+![akeome-link drawio](https://github.com/user-attachments/assets/515c0bed-307a-4c03-855b-e20ee62188ed)
 
 ### ハッカソンで開発した独自機能・技術
 
