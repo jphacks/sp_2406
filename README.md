@@ -76,8 +76,6 @@ SNSの普及に伴い、若者を中心に年賀状を出す人が減少して�
 
 <img src="https://github.com/user-attachments/assets/489ceec3-0b7d-4b57-9708-3b3d23891ece" style="width: 20%;">
 
-印刷のデモ動画：[https://drive.google.com/drive/folders/1-rdnR2q3PNIxPgAm81zTUQsj5MJQafXm?usp=sharing](https://drive.google.com/file/d/1YHyWWeYj_oylb_SEXNAWHzh7RByH7r_b/view?usp=sharing)
-
 ### 4. 受け取った人もサービスを使いたくなる工夫
 
 SNSでの拡散を意識した設計で、年賀状を受け取った人が「自分も作ってみたい！」と思える仕組みをデザインしました。年賀状を見る際に「年賀状を作ってみる」ボタンが目立つ位置に配置され、スムーズにログインして制作に取り掛かれます。
