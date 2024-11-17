@@ -14,6 +14,9 @@ https://github.com/diawel/akeome-link-cms
 
 [https://akeo.me/](https://www.akeo.me/)
 
+### 動画
+[https://www.youtube.com/watch?si=P2D-IaI17yn_jZ8U&v=y-Y4dibML0c&feature=youtu.be](https://www.youtube.com/watch?si=P2D-IaI17yn_jZ8U&v=y-Y4dibML0c&feature=youtu.be)
+
 ## 製品概要
 
 ### 背景(製品開発のきっかけ、課題等）
